@@ -11,3 +11,4 @@ and
 ```bash
 yarn start
 ```
+@metamask/sdk
